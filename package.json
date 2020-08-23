@@ -1,0 +1,19 @@
+{
+  "name": "PAGINATION_URLS_GENERATION",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "diff": "^4.0.2"
+  }
+}
